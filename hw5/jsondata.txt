@@ -1,0 +1,10 @@
+[
+    {"StudentID":"3","FirstName":"Ali","LastName":"Veli","Age":"21","Gender":"M","Salary":"18","BirthDay":"1989-03-19 00:00:00"},
+    {"StudentID":"4","FirstName":"Metin","LastName":"Demir","Age":"22","Gender":"M","Salary":"50","BirthDay":"1988-04-19 00:00:00"},
+    {"StudentID":"5","FirstName":"Ayþe","LastName":"Boz","Age":"23","Gender":"F","Salary":"100","BirthDay":"1987-04-30 00:00:00"},
+    {"StudentID":"6","FirstName":"Emre","LastName":"Ak","Age":"23","Gender":"M","Salary":"55","BirthDay":"1987-10-24 00:00:00"},
+    {"StudentID":"7","FirstName":"Gülþah","LastName":"Sevim","Age":"22","Gender":"F","Salary":"50","BirthDay":"2010-04-14 00:00:00"},
+    {"StudentID":"10","FirstName":"þahin","LastName":"Iþýk","Age":"22","Gender":"M","Salary":"1000","BirthDay":"1988-04-29 00:00:00"},
+    {"StudentID":"11","FirstName":"Hasan","LastName":"Ozer","Age":"19","Gender":"M","Salary":"650","BirthDay":"1988-01-08 00:00:00"},
+    {"StudentID":"12","FirstName":"Safak","LastName":"Safak","Age":"20","Gender":"M","Salary":"5000","BirthDay":"1995-05-26 00:00:00"}
+]
