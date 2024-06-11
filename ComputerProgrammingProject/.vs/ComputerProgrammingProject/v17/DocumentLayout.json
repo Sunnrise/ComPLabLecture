@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alper\\Documents\\vsstudio project\\ComPLabLecture\\ComputerProgrammingProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D0313AB-66BE-487D-AEE3-B126B94EAC53}|ComputerProgrammingProject.vcxproj|C:\\Users\\alper\\Documents\\vsstudio project\\ComPLabLecture\\ComputerProgrammingProject\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3D0313AB-66BE-487D-AEE3-B126B94EAC53}|ComputerProgrammingProject.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3D0313AB-66BE-487D-AEE3-B126B94EAC53}|ComputerProgrammingProject.vcxproj|C:\\Users\\alper\\Documents\\vsstudio project\\ComPLabLecture\\ComputerProgrammingProject\\152120201054_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D0313AB-66BE-487D-AEE3-B126B94EAC53}|ComputerProgrammingProject.vcxproj|solutionrelative:152120201054_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FileName.cpp",
-              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\ComPLabLecture\\ComputerProgrammingProject\\FileName.cpp",
-              "RelativeDocumentMoniker": "FileName.cpp",
-              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\ComPLabLecture\\ComputerProgrammingProject\\FileName.cpp",
-              "RelativeToolTip": "FileName.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Title": "152120201054_Project.cpp",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\vsstudio project\\ComPLabLecture\\ComputerProgrammingProject\\152120201054_Project.cpp",
+              "RelativeDocumentMoniker": "152120201054_Project.cpp",
+              "ToolTip": "C:\\Users\\alper\\Documents\\vsstudio project\\ComPLabLecture\\ComputerProgrammingProject\\152120201054_Project.cpp",
+              "RelativeToolTip": "152120201054_Project.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-27T06:18:41.756Z",
               "EditorCaption": ""
